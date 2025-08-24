@@ -6,11 +6,6 @@ Welcome to my personal online resume! This website is built with **HTML and CSS*
 Check out the live version of my resume here:  
 [https://sagarwebdeveloper.github.io/resume](https://sagarwebdeveloper.github.io/resume)
 
-## 📚 Education
-- **Matriculation (2013)** — CBSE, CGPA: 7.8  
-- **Intermediate (2015)** — CBSE, 75%  
-- **Bachelor of Computer Applications (2018)** — 68%
-
 ## 💻 Skills
 - **Web Development:** HTML, CSS, JavaScript  
 - **Tools & Platforms:** VS Code, Git, GitHub, Chrome DevTools  
@@ -20,8 +15,7 @@ Check out the live version of my resume here:
 You can reach me via email:  
 [sagarapple2017@gmail.com](mailto:sagarapple2017@gmail.com)
 
-## 🚀 Features
-- Fully **responsive layout**  
+## 🚀 Features 
 - Clean, professional design  
 - Easy to customize and extend  
 - Hosted via **GitHub Pages**
